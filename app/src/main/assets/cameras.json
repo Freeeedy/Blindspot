@@ -1,0 +1,750 @@
+[
+  {
+    "id": 2718303450,
+    "lat": 49.9486249,
+    "lon": 15.2650147,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": "Městská policie Kutná Hora",
+    "mount": "building",
+    "zone": "street",
+    "check_date": "2025-02-06"
+  },
+  {
+    "id": 2718303455,
+    "lat": 49.94468946050968,
+    "lon": 15.205280147695444,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": "Městská policie Kutná Hora",
+    "mount": "building",
+    "zone": "street",
+    "check_date": "2025-02-06"
+  },
+  {
+    "id": 2718303839,
+    "lat": 49.9488712,
+    "lon": 15.2694207,
+    "directions": [
+      25.0,
+      230.0
+    ],
+    "type": [
+      "dome",
+      "fixed"
+    ],
+    "operator": "Městská policie Kutná Hora",
+    "mount": "building",
+    "zone": "street",
+    "check_date": "2025-02-07"
+  },
+  {
+    "id": 8062160508,
+    "lat": 49.9525988,
+    "lon": 15.2699769,
+    "directions": [
+      255.0
+    ],
+    "type": [
+      "dome",
+      "fixed"
+    ],
+    "operator": "Městská policie Kutná Hora",
+    "mount": "street_lamp",
+    "zone": "traffic",
+    "check_date": null
+  },
+  {
+    "id": 8112625728,
+    "lat": 49.9483639,
+    "lon": 15.2609272,
+    "directions": [
+      240.0
+    ],
+    "type": [
+      "fixed",
+      "dome"
+    ],
+    "operator": "Městská policie Kutná Hora",
+    "mount": "pole",
+    "zone": "street",
+    "check_date": "2026-07-09"
+  },
+  {
+    "id": 8116605766,
+    "lat": 49.9451182,
+    "lon": 15.2622273,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": "Městská policie Kutná Hora",
+    "mount": "street_lamp",
+    "zone": "street",
+    "check_date": "2023-01-12"
+  },
+  {
+    "id": 8116675490,
+    "lat": 49.9513441,
+    "lon": 15.2743852,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": "Městská policie Kutná Hora",
+    "mount": "building",
+    "zone": "street",
+    "check_date": "2025-05-02"
+  },
+  {
+    "id": 8116711544,
+    "lat": 49.9489224,
+    "lon": 15.2694192,
+    "directions": [
+      50.0
+    ],
+    "type": [
+      "fixed"
+    ],
+    "operator": "Městská policie Kutná Hora",
+    "mount": "wall",
+    "zone": "entrance",
+    "check_date": "2025-02-07"
+  },
+  {
+    "id": 8162787832,
+    "lat": 49.9495505,
+    "lon": 15.271906,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": "Policie České republiky",
+    "mount": "wall",
+    "zone": "street",
+    "check_date": "2025-04-24"
+  },
+  {
+    "id": 11895681123,
+    "lat": 50.0226442,
+    "lon": 15.1859276,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681124,
+    "lat": 50.0215207,
+    "lon": 15.1840071,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681125,
+    "lat": 50.0216971,
+    "lon": 15.1907417,
+    "directions": [],
+    "type": [
+      "panning"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681126,
+    "lat": 50.0207596,
+    "lon": 15.1923135,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681127,
+    "lat": 50.0235238,
+    "lon": 15.1930145,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681128,
+    "lat": 50.0239787,
+    "lon": 15.1903269,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681129,
+    "lat": 50.0246276,
+    "lon": 15.1947598,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681130,
+    "lat": 50.0252514,
+    "lon": 15.1940356,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681131,
+    "lat": 50.0264232,
+    "lon": 15.196412,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681132,
+    "lat": 50.0280395,
+    "lon": 15.1959829,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681142,
+    "lat": 50.0310007,
+    "lon": 15.2046413,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681145,
+    "lat": 50.0282187,
+    "lon": 15.2073732,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681146,
+    "lat": 50.0257236,
+    "lon": 15.2071586,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681147,
+    "lat": 50.0258063,
+    "lon": 15.2069441,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681148,
+    "lat": 50.0248547,
+    "lon": 15.2130087,
+    "directions": [],
+    "type": [
+      "panning"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681149,
+    "lat": 50.025055,
+    "lon": 15.2137354,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681150,
+    "lat": 50.0243864,
+    "lon": 15.2142182,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681151,
+    "lat": 50.0220154,
+    "lon": 15.2116006,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681152,
+    "lat": 50.0217534,
+    "lon": 15.2112358,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681153,
+    "lat": 50.0261029,
+    "lon": 15.2001636,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681154,
+    "lat": 50.0285221,
+    "lon": 15.2033608,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681155,
+    "lat": 50.0281093,
+    "lon": 15.20344,
+    "directions": [],
+    "type": [
+      "panning"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681157,
+    "lat": 50.0289012,
+    "lon": 15.1998203,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681158,
+    "lat": 50.0275503,
+    "lon": 15.1990371,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681159,
+    "lat": 50.0270747,
+    "lon": 15.2008074,
+    "directions": [],
+    "type": [
+      "panning"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681160,
+    "lat": 50.0274814,
+    "lon": 15.1976316,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681162,
+    "lat": 50.0286546,
+    "lon": 15.1986053,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681166,
+    "lat": 50.0150851,
+    "lon": 15.2048634,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681167,
+    "lat": 50.0149541,
+    "lon": 15.2051101,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895681168,
+    "lat": 50.024142,
+    "lon": 15.1957117,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697069,
+    "lat": 50.0275236,
+    "lon": 15.1999392,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697071,
+    "lat": 50.02869,
+    "lon": 15.200923,
+    "directions": [],
+    "type": [
+      "panning"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697072,
+    "lat": 50.0290617,
+    "lon": 15.2011502,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697073,
+    "lat": 50.0251054,
+    "lon": 15.2050555,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697074,
+    "lat": 50.0087128,
+    "lon": 15.2301121,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697076,
+    "lat": 50.0241157,
+    "lon": 15.2126923,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697077,
+    "lat": 50.0241605,
+    "lon": 15.2127406,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697078,
+    "lat": 50.0248555,
+    "lon": 15.2130156,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697080,
+    "lat": 50.0237908,
+    "lon": 15.1870976,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 11895697081,
+    "lat": 50.0242251,
+    "lon": 15.1886747,
+    "directions": [],
+    "type": [],
+    "operator": "Městská policie Kolín",
+    "mount": null,
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 12861343740,
+    "lat": 50.0231835,
+    "lon": 15.20425,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 12920187741,
+    "lat": 50.001295,
+    "lon": 15.3383262,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 12920195400,
+    "lat": 50.0099028,
+    "lon": 15.2929821,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 12980208052,
+    "lat": 49.9656049,
+    "lon": 15.30645,
+    "directions": [],
+    "type": [
+      "dome"
+    ],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 12980208104,
+    "lat": 49.9557968,
+    "lon": 15.2787728,
+    "directions": [],
+    "type": [],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 12980214361,
+    "lat": 49.9707594,
+    "lon": 15.3218153,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 13236684192,
+    "lat": 49.9589993,
+    "lon": 15.2870337,
+    "directions": [],
+    "type": [],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 13236718076,
+    "lat": 49.9589517,
+    "lon": 15.2870098,
+    "directions": [],
+    "type": [],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 13238979436,
+    "lat": 49.951226,
+    "lon": 15.273045,
+    "directions": [],
+    "type": [],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 13238991081,
+    "lat": 49.9512331,
+    "lon": 15.273011,
+    "directions": [],
+    "type": [],
+    "operator": null,
+    "mount": null,
+    "zone": null,
+    "check_date": null
+  },
+  {
+    "id": 13251976363,
+    "lat": 49.9496342,
+    "lon": 15.269552,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": null,
+    "mount": "wall",
+    "zone": "building",
+    "check_date": null
+  },
+  {
+    "id": 13252003126,
+    "lat": 49.9495567,
+    "lon": 15.2695133,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": null,
+    "mount": "wall",
+    "zone": "town",
+    "check_date": null
+  },
+  {
+    "id": 13252006905,
+    "lat": 49.9497376,
+    "lon": 15.2696256,
+    "directions": [],
+    "type": [
+      "fixed"
+    ],
+    "operator": null,
+    "mount": "wall",
+    "zone": "building",
+    "check_date": null
+  }
+]

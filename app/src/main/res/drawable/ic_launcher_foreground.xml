@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Estimated viewing cone -->
+    <path android:fillColor="#55FFD600" android:pathData="M54,40 L28,78 A40,40 0 0 0 80,78 Z" />
+    <path android:strokeColor="#FFFFE57F" android:strokeWidth="2" android:fillColor="#00000000"
+        android:pathData="M54,40 L28,78 A40,40 0 0 0 80,78 Z" />
+    <!-- Camera point -->
+    <path android:fillColor="#FFFF5252" android:pathData="M54,33a7,7 0,1 1,0,14a7,7 0,1 1,0,-14z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M54,37a3,3 0,1 1,0,6a3,3 0,1 1,0,-6z" />
+</vector>

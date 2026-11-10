@@ -1,0 +1,24 @@
+# Gradle / build output
+.gradle/
+.kotlin/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Machine-specific
+local.properties
+*.iml
+.idea/
+.DS_Store
+
+# Signing — NEVER commit
+keystore.properties
+keystore/
+*.jks
+*.keystore
+
+# Built binaries (attach to a GitHub Release instead)
+*.apk
+*.aab
