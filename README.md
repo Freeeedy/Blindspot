@@ -5,7 +5,7 @@ Offline camera-awareness app. It vibrates when your GPS position enters or leave
 
 ## Install
 
-`Blindspot.apk` in this folder is the signed release build.
+Download the signed APK from [Releases](https://github.com/Freeeedy/blindspot/releases), or build it yourself (below).
 
 ```
 adb install -r Blindspot.apk
